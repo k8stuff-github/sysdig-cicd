@@ -3,7 +3,7 @@ env:
     REGISTRY_HOST: "docker.io"
     IMAGE_NAME: "github-pipeline-test"
     IMAGE_TAG: "github-pipeline-test"
-    DOCKERFILE_CONTEXT: "/"
+    DOCKERFILE_CONTEXT: "nginx/"
   
 name: Container build, scan and push
 
