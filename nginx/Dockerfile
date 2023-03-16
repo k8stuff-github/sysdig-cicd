@@ -1,3 +1,1 @@
-FROM nginx
-
-
+FROM httpd
